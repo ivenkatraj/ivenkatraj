@@ -36,6 +36,7 @@
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivenkatraj&theme=radical&langs_count=3" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ivenkatraj&show_icons=true&theme=radical&line_height=27" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivenkatraj&theme=radical"/>
 <br>
 
 </div>
