@@ -3,6 +3,7 @@
 
 ## 👨‍💻 &nbsp;About Me
 <br>
+
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 👨‍🎓 &nbsp;I'm currently pursuing Computer Science and Engineering Batch 2019-2023.\
 🌱 &nbsp;I'm on track for learning DSA, OOPS and Web Development.\
