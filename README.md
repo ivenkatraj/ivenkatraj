@@ -8,7 +8,7 @@
 👨‍🎓 &nbsp;I'm currently pursuing Computer Science and Engineering Batch 2019-2023.\
 🌱 &nbsp;I'm on track for learning DSA, OOPS and Web Development.\
 ✍ &nbsp;In my free time, I do freelancing as video editor on [Fiverr](https://fiverr.com/ivenkatraj).\
-📄 &nbsp;Please have a look at my [Website](http://venkatraj.com).
+📄 &nbsp;Please have a look at my [Website](ivenkatraj.github.io).
 
 <br>
 
