@@ -1,5 +1,5 @@
 
-<h2><b>Hey there! I'm Venkatraj</b></h2>
+<h2><b>Myself, Venkatraj</b></h2>
 
 ## 👨‍💻 &nbsp;About Me
 <br>
