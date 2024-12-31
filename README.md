@@ -12,7 +12,7 @@
 
 <br>
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stacks
  
 <br>
 
